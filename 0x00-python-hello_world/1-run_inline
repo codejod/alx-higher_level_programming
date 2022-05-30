@@ -1,0 +1,2 @@
+#!/bn/bash
+python3 <<< $PYCODE
